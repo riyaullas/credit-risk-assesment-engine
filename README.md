@@ -74,3 +74,17 @@ streamlit run src/app.py
 - Additional ML models
 - Cloud deployment
 - SHAP Explainability
+
+## Application Screenshots
+
+### Dashboard
+
+![Dashboard](screenshots/dashboard.png)
+
+### Loan Approved
+
+![Loan Approved](screenshots/loan-approved.png)
+
+### Loan Rejected
+
+![Loan Rejected](screenshots/loan-rejected.png)

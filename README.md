@@ -6,7 +6,7 @@
 
 ## Application Preview
 
-![Dashboard](screenshots/credit-dashboard.png)
+![Dashboard](screenshots/application-form.png)
 
 ## 🌐 Deployment Status
 
@@ -35,15 +35,15 @@ AI-powered loan approval and credit risk prediction system built using Machine L
 
 ### Dashboard
 
-![Dashboard](screenshots/credit-dashboard.png)
+![Dashboard](screenshots/dashboard.png)
 
 ### Loan Approved
 
-![Loan Approved](screenshots/credit-loan-approved.png)
+![Loan Approved](screenshots/loan-approved.png)
 
 ### Loan Rejected
 
-![Loan Rejected](screenshots/credit-loan-rejected.png)
+![Loan Rejected](screenshots/loan-rejected.png)
 
 ## Applicant Information Form
 

@@ -234,4 +234,3 @@ The application is deployed on Streamlit Community Cloud and automatically updat
 
 - GitHub: https://github.com/riyaullas
 - Live Demo: https://credit-risk-assessment-engine.streamlit.app
-⭐ If you found this project useful, consider giving it a star on GitHub.
